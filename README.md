@@ -1,5 +1,5 @@
 # Instructions and samples
 
-Check the [wiki](https://github.com/disarm-dev/simplest-functions-for-openfaas/wiki)
+The wiki content has been moved into docs.disarm.io
 
 Also look at https://github.com/disarm-dev/faas-template-r-fn
